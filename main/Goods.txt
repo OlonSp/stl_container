@@ -1,0 +1,25 @@
+ID:                0
+Name:               
+Manufacturer:       
+Warehouse address:  
+Weight:            0
+ID:                7
+Name:              Pizza
+Manufacturer:      Uncle Jhon
+Warehouse address: Italia
+Weight:            20
+ID:                5
+Name:              Sushi
+Manufacturer:      Osaka
+Warehouse address: Rostov
+Weight:            10
+ID:                6
+Name:              Jeans
+Manufacturer:      Mech
+Warehouse address: Moscow
+Weight:            30
+ID:                2
+Name:              Smartphones
+Manufacturer:      Xiaomi
+Warehouse address: Pekin
+Weight:            10
